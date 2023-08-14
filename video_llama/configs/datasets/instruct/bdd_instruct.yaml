@@ -1,0 +1,6 @@
+datasets:
+  bdd_instruct:
+    data_type: image
+    build_info:
+      anno_dir: /path/bdd_align/bdd_instruct.jsonl
+      videos_dir: /path/bdd_align/videos/
